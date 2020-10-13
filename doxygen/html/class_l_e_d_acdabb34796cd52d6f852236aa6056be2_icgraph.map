@@ -1,0 +1,5 @@
+<map id="LED::turnOff" name="LED::turnOff">
+<area shape="rect" id="node1" title="LEDを消灯する" alt="" coords="141,31,235,57"/>
+<area shape="rect" id="node2" href="$class_l_e_d.html#a4b8692dfdef842d0da59ac0644eb0e97" title="コンストラクタ" alt="" coords="9,5,89,32"/>
+<area shape="rect" id="node3" href="$class_l_e_d.html#a5cb49cf2696615d43952baf8ade06767" title="デストラクタ" alt="" coords="5,56,93,83"/>
+</map>
